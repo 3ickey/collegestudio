@@ -2,7 +2,7 @@
 
 This repository contains code for an interactive web app, created for the _Client-Side Web Development_ course at the UW iSchool.
 
-College studio is a college finding web app created by Mickey Lema, Kyra Bautista, Lauren Smith, and Tyler Van Brocklin.
+College studio is a college finding web app created by Mikias Lema, Kyra Bautista, Lauren Smith, and Tyler Van Brocklin.
 With this app, users can search potential schools based on school name or school state.
 
 Users can discover schools this way whether or not they have created an account.
